@@ -264,3 +264,15 @@ nav a.active {
 .contact-form button {
     margin-top: 1rem;
 }
+a.portfolio-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.portfolio-link:visited {
+  color: inherit;
+}
+
+a.portfolio-link:hover {
+  text-decoration: none;
+}
